@@ -3,6 +3,9 @@
 
 How to play: The player must find the exit inside a 3D maze, he can go through the same room a limited number of times, each level increases the size of the maze. Sound and visual aids are available, it is also possible to deactivate them.
 
+Play online:
+https://webmsx.org/?MACHINE=MSX2E&ROM=https://github.com/antor44/3dmaze/raw/main/3dmaze.rom
+
 Repository for downloads:
 https://github.com/antor44/3dmaze
 
