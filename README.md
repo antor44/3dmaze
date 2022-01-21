@@ -9,6 +9,9 @@ https://webmsx.org/?MACHINE=MSX2E&ROM=https://github.com/antor44/3dmaze/raw/main
 Repository for downloads:
 https://github.com/antor44/3dmaze
 
+(Version 1 is for 32 KB RAM (12 KB free) MSX computers)
+
+
 Requirements:
 
 -MSX 1/2/2+ Europe or USA BIOS
