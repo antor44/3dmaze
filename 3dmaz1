@@ -1,4 +1,4 @@
-5 REM *** 3D MAZE PRO 1.06***
+5 REM *** 3D MAZE PRO 1.44 ***
 10 REM *** New remastered version by antor44.Original author unknown (Abandonware) ***
 20 COLOR 15,1,1:SCREEN 2,,0:WW=RND(-TIME):OPEN "GRP:" FOR OUTPUT AS #1:PRESET(84,90):PRINT#1,"3D MAZE PRO"
 30 DEFINT D-Z:DIM A%(18,18,4),B%(18,18),E%(3,1):DI=2:RO=3:LE=4:E%(0,0)=206:E%(1,0)=207:E%(2,0)=205:E%(3,0)=208:E%(0,1)=-2:E%(1,1)=2:E%(2,1)=2:E%(3,1)=-2
@@ -13,7 +13,7 @@
 95 PRESET(60,120):PRINT#1,"Generating Maze...":KO=0:SA=0:BC=15:IF RO=2 THEN RO=3
 100 FOR M=0 TO RO
 105 FOR N=0 TO RO
-110 B%(M,N)=12-DI*2
+110 B%(M,N)=11-DI*2
 115 NEXT N,M
 120 FOR N=1 TO RO
 130 A%(N,RO,1)=1:A%(N,1,3)=1
