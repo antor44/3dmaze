@@ -1,5 +1,11 @@
 # 3D Maze Pro
-3D Maze Pro is a free MSX Basic game, developed with default Basic without inserting machine code.
+
+![Screenshot](https://github.com/antor44/3dmaze/blob/main/3dmaze_pro_white.jpg)
+
+#
+
+
+3D Maze Pro is a free MSX Basic game, developed with default Basic without inserting machine code. This is a new remastered version by antor44, based on an abandonware.
 
 How to play: The player must find the exit inside a 3D maze, he can go through the same room a limited number of times, each level increases the size of the maze. Sound and visual aids are available, it is also possible to deactivate them.
 
