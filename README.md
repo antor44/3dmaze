@@ -1,5 +1,9 @@
 # 3D Maze Pro
 
+![3D Maze Pro](https://github.com/antor44/3dmaze/blob/main/3D%20Maze%20Pro.jpg)
+#
+
+
 ![Screenshot](https://github.com/antor44/3dmaze/blob/main/3dmaze_pro_white.jpg)
 
 #
